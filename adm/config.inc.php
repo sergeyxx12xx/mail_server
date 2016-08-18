@@ -27,7 +27,7 @@ $CONF['configured'] = true;
 // In order to setup Postfixadmin, you MUST specify a hashed password here.
 // To create the hash, visit setup.php in a browser and type a password into the field,
 // on submission it will be echoed out to you as a hashed value.
-$CONF['setup_password'] = 'changeme';
+$CONF['setup_password'] = '817a936c56aa4ff18d2a3ef66304be31:339cfaf9a7b4e8364ed49e69197f2568a7bb147e';
 
 // Language config
 // Language files are located in './languages', change as required..
